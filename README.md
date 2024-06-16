@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @manoelaquandt
 - 👀 I’m interested in databases, information technology, and software development.
 - 🌱 I’m currently learning Technology Management, JavaScript, and databases.
-- 📫 You can reach me on linkedin: linkedin.com/in/manoelaquandt
 - 😄 Pronouns: she/her
